@@ -1,4 +1,4 @@
-[Persian Readme](https://github.com/Erfan-XRay/TrustTunnel/blob/main/README_FA.md)
+[Persian Readme](https://github.com/hondacbr-XRay/TrustTunnel/blob/main/README_FA.md)
 
 ![Menu](https://github.com/Erfan-XRay/TrustTunnel/blob/main/menu.png)
 
