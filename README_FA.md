@@ -8,7 +8,7 @@ Trust Tunnel یک تونل معکوس (Reverse Tunnel) امن، پایدار و 
 
 برای راه‌اندازی، کافی‌ست اسکریپت زیر را روی سرور خود (Debian یا Ubuntu) اجرا کنید:
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Erfan-XRay/TrustTunnel/main/main.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hondacbr-XRay/TrustTunnel/main/main.sh)
 ```
 
 
