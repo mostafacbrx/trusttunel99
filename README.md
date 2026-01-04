@@ -1,6 +1,6 @@
 [Persian Readme](https://github.com/hondacbr-XRay/TrustTunnel/blob/main/README_FA.md)
 
-![Menu](https://github.com/Erfan-XRay/TrustTunnel/blob/main/menu.png)
+![Menu](https://github.com/hondacbr-XRay/TrustTunnel/blob/main/menu.png)
 
 ## What is Trust Tunnel?
 a secure , stable and fast reverse tunnel based on [rstun](https://github.com/neevek/rstun) project and QUIC protocol(UDP/TCP).
