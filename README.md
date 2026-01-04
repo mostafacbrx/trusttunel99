@@ -7,7 +7,7 @@ a secure , stable and fast reverse tunnel based on [rstun](https://github.com/ne
 ## How to Run?
 Run the following script on your server (Debian or Ubuntu):
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Erfan-XRay/TrustTunnel/main/main.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hondacbr-XRay/TrustTunnel/main/main.sh)
 ```
 ## How to use ?
 [![Watch the video](https://i3.ytimg.com/vi/QD2xXu9DuSw/maxresdefault.jpg)](https://www.youtube.com/watch?v=QD2xXu9DuSw )
